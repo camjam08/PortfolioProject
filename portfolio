@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header class="menu-wrap">
+        <label for="menu-checkbox" class="menu-icon">☰</label>
+        <nav class="nav">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="header">
+        <h1>Portfolio</h1>
+        <p>Featured projects</p>
+    </div>
+    
+    <div class="portfolio-section">
+        <div class="portfolio-item">
+            <img src="images\wffoodtruckalley.png" alt="Homepage screenshot of the home page for the Wake Forest Food Truck Alley website.">
+            <h3>Wake Forest Food Truck Alley Website</h3>
+            <p>The Wake Forest Food Truck Alley (WFFTA) was a website that I created for a National Contest held by the Future Business Leaders of America Association. The website won second place at the National Leadership Convention in Atlanta, GA during June of 2023.</p>
+        </div>
+
+        <div class="portfolio-item">
+            <img src="images\joyfuse.JPG" alt="Screenshot of the home page for the JoyFuse website. ">
+            <h3>JoyFuse Stem Kits for Kids Website</h3>
+            <p>JoyFuse Stem Kits for Kids is a company that creates STEM kits geared towards children ages 5-13. I partnered with them to create an engaging online platform that promotes their products and resources for STEM education.</p>
+        </div>
+
+        <div class="portfolio-item">
+            <img src="images\beyondtheblazer.png" alt="Picture of Beyond the Blazer podcast graphic that features a standup microphone with large text that reads Beyond the Blazer.">
+            <h3>Beyond the Blazer</h3>
+            <p>Beyond the Blazer is an NC FBLA-Collegiate Podcast that is hosted by Jeremy Post, VP of Membership for North Carolina FBLA-Collegiate. I am the editor and graphic designer for the podcast. Check out Beyond the Blazer on Spotify, Apple Podcast, or Youtube.</p>
+        </div>
+    
+        <div class="portfolio-item">
+            <img src="images\howtovideo.JPG" alt="How to needle felt video.">
+            <h3>How-To Video</h3>
+            <p>This is a How-To/Tutorial video that I created for a youtube channel that specializes in needle felting tutorials. I edited the video using Adobe Primere Pro.</p>
+        </div>
+
+    </div>
+
+    <footer>
+        <div class="social-media-icons">
+            <a href="https://www.instagram.com/camjamison/?hl=en" target="https://www.instagram.com/camjamison/?hl=en">
+                <img src="images/instagram.png" alt="Instagram">
+            </a>
+            <a href="https://www.facebook.com/profile.php?id=100006271427248" target="https://www.facebook.com/profile.php?id=100006271427248">
+                <img src="images\facebook.png" alt="Facebook">
+            </a>
+            <a href="https://www.linkedin.com/in/camjam/" target="https://www.linkedin.com/in/camjam/">
+                <img src="images\linkedin.png" alt="LinkedIn">
+            </a>
+        </div>
+        &copy; CamJam Creative Co. 2023
+    </footer>
+</body>
+</html>
